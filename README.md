@@ -29,8 +29,8 @@ Este proyecto es un dashboard interactivo que muestra la relación entre la edad
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Davepe10/tu-repo.git
-   cd tu-repo
+   git clone git remote add origin https://github.com/Davepe10/dashboard-empleados.git
+   cd dashboard-empleados
 
 
 ## Crea un entorno virtual y actívalo:Crea un entorno virtual y actívalo:
